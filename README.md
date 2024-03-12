@@ -75,3 +75,9 @@ Done! Now your malware is ready! Go ahead and hack the world!
 - Medium: https://medium.com/@0xHossam
 - Facebook: https://www.facebook.com/0xHossam
 - Github: https://github.com/0xHossam
+
+## Warning
+
+I am not responsible for any of your actions, this tool for educational purposes only.
+
+
