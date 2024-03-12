@@ -1,6 +1,6 @@
 # HuffLoader
 
-![alt text](<Screenshot 2024-03-12 161015.png>)
+![Screenshot 2024-03-12 161015](https://github.com/0xHossam/HuffLoader/assets/82971998/158a526c-72f5-4757-b363-bbe4c98ebd16)
 
 ## Loader Features
 
@@ -33,7 +33,8 @@ Created by David A. Huffman in 1952 this method utilizes a tree to assign binary
 
 For example when given the input (BCCADBBDABBCCADDCCEE) each unique character is represented by a code based on its frequency. This compression process reduces the size of the data while ensuring that the original content can be perfectly reconstructed using a header containing each characters code.
 
-![alt text](image-1.png)
+![image-1](https://github.com/0xHossam/HuffLoader/assets/82971998/f455b235-2972-4aa4-9515-dba44ecd3f47)
+
 
 **NOTE: THE LOADER HUFFMAN ALGORITHM IS BASED FROM @0xNinjaCyclone IMPLMENEATION** -> https://github.com/0xNinjaCyclone/dalgo/blob/master/Algo/huffman.c
 
@@ -66,7 +67,8 @@ Done! Now your malware is ready! Go ahead and hack the world!
 
 **Example Image**
 
-![alt text](image.png)
+![image](https://github.com/0xHossam/HuffLoader/assets/82971998/7b652fe9-a54b-446c-bac5-c0ed3106b2c1)
+
 
 ## About Author
 
