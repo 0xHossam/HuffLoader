@@ -72,9 +72,9 @@ Done! Now your malware is ready! Go ahead and hack the world!
 
 ## About Author
 
-- Medium: https://medium.com/@0xHossam
-- Facebook: https://www.facebook.com/0xHossam
-- Github: https://github.com/0xHossam
+- Medium: [https://medium.com/@0xHossam](https://medium.com/@0xHossam)
+- X: [https://www.facebook.com/0xHossam](https://x.com/0xHossam)
+- Github: [https://github.com/0xHossam](https://github.com/0xHossam)
 
 ## Warning
 
